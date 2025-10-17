@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a2f3e52c-8f11-4e6a-9c15-4d65d23b8f97",
+    "name": "Pikachu",
+    "type": "Electric",
+    "attacks": ["Thunder Shock", "Quick Attack", "Iron Tail", "Electro Ball"],
+    "level": 25
+  },
+  {
+    "id": "c37e1e4f-92cb-4b2f-bb4a-6b57e28f5c1b",
+    "name": "Charmander",
+    "type": "Fire",
+    "attacks": ["Scratch", "Ember", "Flamethrower", "Fire Fang"],
+    "level": 18
+  },
+  {
+    "id": "4b2c933b-16e1-4ff7-b37b-96713b86a0b2",
+    "name": "Squirtle",
+    "type": "Water",
+    "attacks": ["Tackle", "Water Gun", "Bubble", "Aqua Tail"],
+    "level": 20
+  },
+  {
+    "id": "f45e1ab8-c6e3-49f2-93f0-77a94f93ad9b",
+    "name": "Bulbasaur",
+    "type": "Grass/Poison",
+    "attacks": ["Tackle", "Vine Whip", "Razor Leaf", "Seed Bomb"],
+    "level": 22
+  },
+  {
+    "id": "e12b9cd3-09db-42c7-96a7-7f3021a2cb39",
+    "name": "Jigglypuff",
+    "type": "Normal/Fairy",
+    "attacks": ["Pound", "Sing", "Disarming Voice", "Double Slap"],
+    "level": 15
+  },
+  {
+    "id": "67b39ef2-6a11-4f85-9f67-3b3b21b1a5b8",
+    "name": "Gengar",
+    "type": "Ghost/Poison",
+    "attacks": ["Shadow Ball", "Sludge Bomb", "Hypnosis", "Dream Eater"],
+    "level": 36
+  },
+  {
+    "id": "89dc9ab3-6ec5-4baf-a67a-ff2c319f69f3",
+    "name": "Onix",
+    "type": "Rock/Ground",
+    "attacks": ["Tackle", "Rock Throw", "Slam", "Iron Tail"],
+    "level": 28
+  },
+  {
+    "id": "fb4a0b51-c8f3-4c7e-9353-61e8c23de4e9",
+    "name": "Eevee",
+    "type": "Normal",
+    "attacks": ["Quick Attack", "Bite", "Swift", "Take Down"],
+    "level": 17
+  },
+  {
+    "id": "8c3e1e8b-5e1f-4cb3-8f11-41a9823a693e",
+    "name": "Snorlax",
+    "type": "Normal",
+    "attacks": ["Tackle", "Rest", "Body Slam", "Hyper Beam"],
+    "level": 40
+  },
+  {
+    "id": "d91f72a5-bf52-4a0a-8ad1-196e66b4c9b7",
+    "name": "Lucario",
+    "type": "Fighting/Steel",
+    "attacks": ["Aura Sphere", "Close Combat", "Metal Claw", "Bone Rush"],
+    "level": 35
+  }
+]
