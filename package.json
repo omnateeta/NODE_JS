@@ -4,7 +4,7 @@
   "description": "its a pokemon api",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon server.js"
   },
   "keywords": [
     "Omnateeta V U"
@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.0.0"
+    "chalk": "^4.0.0",
+    "crypto": "^1.0.1",
+    "express": "^5.1.0"
   }
-} 
+}
